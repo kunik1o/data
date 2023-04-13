@@ -1,0 +1,9 @@
+id: ArtsEpiphany  # required
+profileUrl: ${path}/photos/profile.png
+info:
+  born: '1970-01-01'
+  died: '1970-01-01'
+websites:
+  twitter: https://twitter.com/<k>
+  github: https://github.com/<k>
+# Former One Among Us Member
