@@ -1,15 +1,15 @@
 ---
 name: Lyna
 info:
-    alias: Yulian, Nyanner
-    location: Dalian, Liaoning
+  alias: Yulian, Nyanner
+  location: Dalian, Liaoning
 ---
 
 ## Introduction
 
-<!-- (This section is an objective description) -->
+<!-- (本段为客观叙述) -->
 
-Lyna is a girl who loves hugging her IKEA shark, enjoys rock music, and immerses herself in her own little world.
+Lyna is a girl who loves hugging her [blåhaj](https://en.wikipedia.org/wiki/Bl%C3%A5haj), enjoys rock music, and drifts in her own little world.
 
 She fantasizes about being a rock star and releasing an album that moves all of humanity (just a fantasy, but it's such a lovely one!).
 
@@ -17,7 +17,7 @@ She fantasizes about being a rock star and releasing an album that moves all of 
 
 So, would Bocchi-chan enjoy Radiohead too?
 
-<!-- Bocchi-chan (Gotou Hitori): Bocchi from *Bocchi the Rock!*. -->
+<!-- 波奇酱（后藤一里）：Bocchi-chan -->
 
 Maybe it's ADHD? When doing something challenging, her mind always drifts. Is that it?
 
@@ -25,17 +25,17 @@ Maybe it's ADHD? When doing something challenging, her mind always drifts. Is th
 
 Light as a feather, yet just like Kanade, she's reluctant to admit she's an angel.
 
-<!-- Kanade (Tachibana Kanade): The Angel from *Angel Beats!*. -->
+<!-- 奏（立华奏）：(Tachibana) Kanade，Angel Beats 的天使 -->
 
 Lonely like a ripple, yet still searching for the meaning of life.
 
 It's just that, unlike Misaka's little sister, she hasn't returned to the world of the living.
 
-<!-- Misaka's little sister: Refers to the Misaka clones from *A Certain Scientific Railgun* and *A Certain Magical Index*. -->
+<!-- 御坂妹妹：Misaka's little sister -->
 
 ## Shackles
 
-<!-- (This section is first-person narration.) -->
+<!-- (本段实际为第一人称) -->
 
 When I was a child, I was too scared to approach girls, wishing I could understand them.
 
@@ -59,17 +59,19 @@ As for hate? I hated them so much. That was all I thought about in middle school
 
 When I was shut off, they just stood there watching.
 
-I was trained, forced to obey, and eventually became like a dog.
+Since the flagellation fell on my body to domesticate me into a tamed hound.
 
-And so I forgot anything about gender, becoming a tortured slave all the way until high school.
+I left a slave life until the second year of high school without recalling the agent of gender.
 
-What about stress? I closed myself off in my own world.
+I sealed my ghost into my shell without looking at the leakage of it under the terrible pressure from the inner side.
 
-Then I tormented myself, turning into a walking corpse.
+Finally, I grew up, into a walking dead.
 
 ## Dysphoria
 
-<!-- (This section is first-person narration.) -->
+<!-- 这里标题对应的英文词是 dysphoria -->
+
+<!-- (本段实际为第一人称) -->
 
 Adam's apple, broad shoulders? And my voice.
 
@@ -99,7 +101,7 @@ So frustrating...
 
 ## Wishes
 
-<!-- (This section is an objective description.) -->
+<!-- (本段实际为客观叙述) -->
 
 Why did the gods take away her wishes?
 
@@ -115,7 +117,7 @@ A tragic life, fleeting youth. Choices like those in a galgame, nothing but the 
 
 It’s just like what Kessoku Band sings...
 
-<!-- Kessoku Band: A fictional band from *Bocchi the Rock!*. -->
+<!-- 结束乐队：Kessoku Band -->
 
 > なにかになりたい なりたい 何者かでいい
 >
@@ -129,15 +131,17 @@ It’s just like what Kessoku Band sings...
 >
 > Why don’t I just lay it all out to the stars
 
+<!-- From ギターと孤独と蒼い惑星 (Guitar, Loneliness and Blue Planet) (English Translation)： -->
+
 But can we ever find that star?
 
 ## Final Chapter
 
-<!-- (This section begins in first-person narration.) -->
+<!-- (此处开始为第一人称叙述) -->
 
-> This world is fake, just one of my self-pleasing fantasies.  
+> This world is fake, just one of my self-pleasing fantasies.
 >
-> What's the meaning of living? Working until death — what kind of happiness can be bought with that?  
+> What's the meaning of living? Working until death — what kind of happiness can be bought with that?
 >
 > Happiness was all used up by the time I hit my twenties. By thirty, wouldn’t I just be a walking corpse?
 
@@ -145,10 +149,7 @@ Let’s go to the beach together, watch the seagulls, and listen to music by The
 
 If only we could grab surfboards and go surfing, that’d be great.
 
-<PhotoScroll photos={[
-    '${path}/photos/photo1.jpg',
-    '${path}/photos/photo2.jpg',
-]} />
+&lt;PhotoScroll photos={[ '${path}/photos/photo1.jpg', '${path}/photos/photo2.jpg', ]} /&gt;
 
 The piano upstairs sounds so beautiful — usually, I’d find it annoying.
 
@@ -156,8 +157,9 @@ But with a different mood, it feels different, doesn’t it?
 
 I got emotionally wrecked while playing *ATRI*, but at least Atri was there.
 
-<!-- ATRI: Refers to *ATRI -My Dear Moments-*, a visual novel. -->
-<!-- Atri: The main character from the visual novel. -->
+<!-- ATRI: 即 ATRI -My Dear Moments- -->
+
+<!-- 亚托莉：Atri -->
 
 She was the one who stayed with me till my last moments...
 
@@ -171,13 +173,13 @@ No matter what kind of life it is, it’s the culmination of everything we go th
 
 If that’s the case...
 
-> Take up arms if you have them.  
+> Take up arms if you have them.
 >
 > Just like *Angel Beats*, let’s rally together and resist this unjust world after death.
 >
-> <PhotoScroll photos={["${path}/photos/photo3.png"]} />
+> &lt;PhotoScroll photos={["${path}/photos/photo3.png"]} /&gt;
 
-<!-- (Switching back to objective narration here.) -->
+<!-- (此处从第一人称转客观叙述) -->
 
 In the end, we heard her voice.
 
